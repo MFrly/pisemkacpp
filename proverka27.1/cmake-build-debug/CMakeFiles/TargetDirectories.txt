@@ -1,0 +1,3 @@
+C:/studenti/IT3/fojtik/proverka27.1/cmake-build-debug/CMakeFiles/proverka27_1.dir
+C:/studenti/IT3/fojtik/proverka27.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/studenti/IT3/fojtik/proverka27.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
